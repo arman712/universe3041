@@ -1,0 +1,31 @@
+POST http://localhost:8080/api/planet/assign
+Content-Type: application/x-www-form-urlencoded
+
+planetID=1&lordID=2
+
+###
+
+
+
+POST http://localhost:8080/api/planet/assign
+Content-Type: application/x-www-form-urlencoded
+
+planetID=4&lordID=2
+
+###
+
+
+POST http://localhost:8080/api/planet/assign
+Content-Type: application/x-www-form-urlencoded
+
+planetID=6&lordID=11
+
+###
+
+
+POST http://localhost:8080/api/planet/assign
+Content-Type: application/x-www-form-urlencoded
+
+planetID=3&lordID=8
+
+###

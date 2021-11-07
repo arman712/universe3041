@@ -1,0 +1,76 @@
+POST http://localhost:8080/api/planet/add
+Content-Type: application/json
+
+{
+  "title": "Меркурий"
+}
+
+###
+
+POST http://localhost:8080/api/planet/add
+Content-Type: application/json
+
+{
+  "title": "Венера"
+}
+
+###
+
+POST http://localhost:8080/api/planet/add
+Content-Type: application/json
+
+{
+  "title": "Земля"
+}
+
+###
+
+
+POST http://localhost:8080/api/planet/add
+Content-Type: application/json
+
+{
+  "title": "Марс"
+}
+
+###
+
+
+POST http://localhost:8080/api/planet/add
+Content-Type: application/json
+
+{
+  "title": "Юпитер"
+}
+
+###
+
+
+POST http://localhost:8080/api/planet/add
+Content-Type: application/json
+
+{
+  "title": "Сатурн"
+}
+
+###
+
+
+POST http://localhost:8080/api/planet/add
+Content-Type: application/json
+
+{
+  "title": "Уран"
+}
+
+###
+
+
+POST http://localhost:8080/api/planet/add
+Content-Type: application/json
+
+{
+  "title": "Нептун"
+}
+
+###

@@ -1,0 +1,119 @@
+POST http://localhost:8080/api/lord/add
+Content-Type: application/json
+
+{
+  "name": "Монарх Сулейман",
+  "age": 28
+}
+
+###
+
+POST http://localhost:8080/api/lord/add
+Content-Type: application/json
+
+{
+  "name": "Монарх Джеймс",
+  "age": 60
+}
+
+###
+
+POST http://localhost:8080/api/lord/add
+Content-Type: application/json
+
+{
+  "name": "Император Мэйдзи",
+  "age": 48
+}
+
+###
+
+POST http://localhost:8080/api/lord/add
+Content-Type: application/json
+
+{
+  "name": "Август Цезарь",
+  "age": 12
+}
+
+###
+
+POST http://localhost:8080/api/lord/add
+Content-Type: application/json
+
+{
+  "name": "Королева Виктория",
+  "age": 111
+}
+
+###
+
+POST http://localhost:8080/api/lord/add
+Content-Type: application/json
+
+{
+  "name": "Джордж Вашингтон",
+  "age": 31
+}
+
+
+###
+
+POST http://localhost:8080/api/lord/add
+Content-Type: application/json
+
+{
+  "name": "Александр Македонский",
+  "age": 22
+}
+
+###
+
+POST http://localhost:8080/api/lord/add
+Content-Type: application/json
+
+{
+  "name": "Зигмунд Фрейд",
+  "age": 52
+}
+
+###
+
+POST http://localhost:8080/api/lord/add
+Content-Type: application/json
+
+{
+  "name": "Владимир Ленин",
+  "age": 27
+}
+
+###
+
+POST http://localhost:8080/api/lord/add
+Content-Type: application/json
+
+{
+  "name": "Карл Великий",
+  "age": 68
+}
+
+
+###
+
+POST http://localhost:8080/api/lord/add
+Content-Type: application/json
+
+{
+  "name": "Махатма Ганди",
+  "age": 55
+}
+
+###
+
+POST http://localhost:8080/api/lord/add
+Content-Type: application/json
+
+{
+  "name": "Гиппократ",
+  "age": 74
+}
